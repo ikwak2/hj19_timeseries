@@ -4,8 +4,8 @@
 
 ##### keyword 
 
+- CNN-LSTM hybrid model (CNN-LSTM, LSTM-CNN, Multi input)
 - Data Augmentation for timeseries forecast
-- CNN-Attention BiLSTM  hybrid model
 - Interpretable timeseries using Grad-CAM
 
 
@@ -24,7 +24,7 @@
 
 1. Data Augmentation for time series
 2. Grad-CAM
-3. Interpretable lstm, 1dcnn ...
+3. Interpretable timeseries forecasting model ...
 
 
 
@@ -32,19 +32,26 @@
 
 1. bitcoin data
 2. pm2.5 beijing data
-3. nasdaq data (?)
+3. SeoulBike data
 
 
 
 #### Experiment
 
-1. Interpretable forecasting model using Grad-CAM
+1. CNN-LSTM, LSTM-CNN, Multi-input Architecture
 
--> 성능은 평범하지만 시각화로 해석력을 추가
+2. one-step prediction
 
-2. Good performance Model (CNN-Attention BiLSTM with Data Augmentation)
+2.1 RMSE, MAE Table
+2.2 loss graph, prediction graph
 
--> multi-input Model이 기존 논문보다 좋은 성능을 이끌었지만 Grad-CAM이 안되는 문제가 있음
+3. multi-step prediction
+
+3.1 RMSE, MAE Table
+3.2 loss graph, prediction graph
+
+4.데이터 별 변수중요도, step 중요도 Grad-CAM
+
 
 
 
