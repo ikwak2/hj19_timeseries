@@ -60,3 +60,11 @@
 ### conclusion
 결과 정리
 
+
+
+##### 타겟저널들
+1. [IEEE Access](https://ieeeaccess.ieee.org/) 
+2. 좀 더 생각해보기
+
+
+
