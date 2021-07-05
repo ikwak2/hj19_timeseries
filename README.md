@@ -43,13 +43,13 @@
 
 1. one-step prediction  
 
-1.1 RMSE, MAE Table  
-1.2 prediction graph  
+  1.1 RMSE, MAE Table  
+  1.2 prediction graph  
 
 2. multi-step prediction  
 
-2.1 요일별 평균 RMSE, MAE 그래프   
-2.2 prediction graph  
+  2.1 요일별 평균 RMSE, MAE 그래프   
+  2.2 prediction graph  
 
 3.데이터 별 변수중요도, step 중요도 Grad-CAM  
 
