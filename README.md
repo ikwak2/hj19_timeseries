@@ -63,8 +63,10 @@
 
 
 ##### 타겟저널들
-1. [International Journal of Forecasting](https://www.journals.elsevier.com/international-journal-of-forecasting)
-2. [IEEE Access](https://ieeeaccess.ieee.org/) 
-3. [Journal of Forecasting](https://onlinelibrary.wiley.com/journal/1099131x)
-4. [ROMANIAN JOURNAL OF ECONOMIC FORECASTING](http://www.ipe.ro/rjef.htm)
-
+1. [International Journal of Forecasting](https://www.journals.elsevier.com/international-journal-of-forecasting): 여긴 조금 쎌듯..
+2. [IEEE Access](https://ieeeaccess.ieee.org/): 이쯤부터 시도하거나 3번 먼저 해보고 해도 좋을듯.. 
+3. [Journal of Forecasting](https://onlinelibrary.wiley.com/journal/1099131x): 이거 먼저 도전해보고 떨어지면 리뷰 반영해서 IEEE ACCESS 도전해봐도 좋을듯?
+4. [ROMANIAN JOURNAL OF ECONOMIC FORECASTING](http://www.ipe.ro/rjef.htm): 2-3까지 잘 안되면 4-7 중에 도전
+5. [Journal of Time Series Analysis](https://onlinelibrary.wiley.com/journal/14679892)
+6. [Journal of Korean Statistical Society](https://onlinelibrary.wiley.com/journal/14679892)
+7. 기타..
