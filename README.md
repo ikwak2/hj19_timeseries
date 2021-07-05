@@ -63,8 +63,8 @@
 
 
 ##### 타겟저널들
-1. [IEEE Access](https://ieeeaccess.ieee.org/) 
-2. 좀 더 생각해보기
-
-
+1. [International Journal of Forecasting](https://www.journals.elsevier.com/international-journal-of-forecasting)
+2. [IEEE Access](https://ieeeaccess.ieee.org/) 
+3. [Journal of Forecasting](https://onlinelibrary.wiley.com/journal/1099131x)
+4. [ROMANIAN JOURNAL OF ECONOMIC FORECASTING](http://www.ipe.ro/rjef.htm)
 
