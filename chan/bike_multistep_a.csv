@@ -1,49 +1,49 @@
 Time,var,value
-0,yhat_inverse,351.4361267
-1,yhat_inverse,334.7433472
-2,yhat_inverse,292.5672607
-3,yhat_inverse,223.4925232
-4,yhat_inverse,152.3200378
-5,yhat_inverse,17.6054821
-6,yhat_inverse,114.1045761
-7,yhat_inverse,392.0026855
-8,yhat_inverse,879.5562134
-9,yhat_inverse,1310.863525
-10,yhat_inverse,749.6715088
-11,yhat_inverse,549.4765625
-12,yhat_inverse,601.9412231
-13,yhat_inverse,793.6883545
-14,yhat_inverse,796.8383789
-15,yhat_inverse,780.7124634
-16,yhat_inverse,912.4286499
-17,yhat_inverse,925.413208
-18,yhat_inverse,1228.311768
-19,yhat_inverse,1606.133911
-20,yhat_inverse,1219.83667
-21,yhat_inverse,989.7479858
-22,yhat_inverse,965.9442139
-23,yhat_inverse,866.362793
-0,testY_inverse,379
-1,testY_inverse,387
-2,testY_inverse,214
-3,testY_inverse,175
-4,testY_inverse,119.0000076
-5,testY_inverse,99.00000763
-6,testY_inverse,115.0000076
-7,testY_inverse,339
-8,testY_inverse,819
-9,testY_inverse,1524
-10,testY_inverse,795
-11,testY_inverse,586
-12,testY_inverse,643
-13,testY_inverse,752
-14,testY_inverse,718
-15,testY_inverse,796
-16,testY_inverse,794
-17,testY_inverse,935
-18,testY_inverse,1156
-19,testY_inverse,1708
-20,testY_inverse,1181
-21,testY_inverse,943
-22,testY_inverse,955
-23,testY_inverse,846
+0,predict,351.4361267
+1,predict,334.7433472
+2,predict,292.5672607
+3,predict,223.4925232
+4,predict,152.3200378
+5,predict,17.6054821
+6,predict,114.1045761
+7,predict,392.0026855
+8,predict,879.5562134
+9,predict,1310.863525
+10,predict,749.6715088
+11,predict,549.4765625
+12,predict,601.9412231
+13,predict,793.6883545
+14,predict,796.8383789
+15,predict,780.7124634
+16,predict,912.4286499
+17,predict,925.413208
+18,predict,1228.311768
+19,predict,1606.133911
+20,predict,1219.83667
+21,predict,989.7479858
+22,predict,965.9442139
+23,predict,866.362793
+0,true ,379
+1,true ,387
+2,true ,214
+3,true ,175
+4,true ,119.0000076
+5,true ,99.00000763
+6,true ,115.0000076
+7,true ,339
+8,true ,819
+9,true ,1524
+10,true ,795
+11,true ,586
+12,true ,643
+13,true ,752
+14,true ,718
+15,true ,796
+16,true ,794
+17,true ,935
+18,true ,1156
+19,true ,1708
+20,true ,1181
+21,true ,943
+22,true ,955
+23,true ,846

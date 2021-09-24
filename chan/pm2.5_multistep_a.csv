@@ -1,0 +1,49 @@
+Time,val,value
+0,predict,20.71382141
+1,predict,22.18517685
+2,predict,23.48527145
+3,predict,25.14647675
+4,predict,25.47655487
+5,predict,24.98049927
+6,predict,26.51841736
+7,predict,31.82956696
+8,predict,31.6104126
+9,predict,36.24183655
+10,predict,35.17431641
+11,predict,36.3416214
+12,predict,39.08557892
+13,predict,41.97914124
+14,predict,41.83306122
+15,predict,42.71124268
+16,predict,45.41121674
+17,predict,48.35511017
+18,predict,48.65233612
+19,predict,51.15027618
+20,predict,53.12819672
+21,predict,53.58952332
+22,predict,55.57227325
+23,predict,57.13106537
+0,true ,16
+1,true ,18
+2,true ,19
+3,true ,13
+4,true ,22
+5,true ,20
+6,true ,16
+7,true ,20
+8,true ,21
+9,true ,21
+10,true ,42
+11,true ,46
+12,true ,43
+13,true ,42
+14,true ,41.00000763
+15,true ,46
+16,true ,54.99999237
+17,true ,52
+18,true ,50
+19,true ,74
+20,true ,73
+21,true ,82
+22,true ,74
+23,true ,76
