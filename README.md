@@ -1,6 +1,6 @@
-# 논문 구조
+## Explainable Time-Series Prediction Using a Residual Network and Gradient-Based Methods
 
-
+Codes related to [Explainable Time-Series Prediction Using a Residual Network and Gradient-Based Methods](https://ieeexplore.ieee.org/document/9916238/) paper
 
 ###### keyword 
 
@@ -8,9 +8,7 @@
 - Interpretable model using Grad-CAM
 
 
-
-
-
+## Paper structure
 ### Introduction 
 
 (이부분은 효정학생 논문 Intro 앞부분 괜찮은 것 같아요.)  
